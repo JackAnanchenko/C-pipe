@@ -1,0 +1,4 @@
+﻿  Application.cpp
+C:\Users\mohsin ayub\source\repos\YourNameA3\Text Adventure\Application.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mohsin ayub\source\repos\YourNameA3\Text Adventure\Application.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Text Adventure.vcxproj -> C:\Users\mohsin ayub\source\repos\YourNameA3\Debug\Text Adventure.exe
